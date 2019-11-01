@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="685e7494-7238-4de4-a57c-bc2f3847824e" name="Default Changelist" comment="" />
+    <list default="true" id="0a14a21c-71f6-4736-8421-a43e2dbc2b6c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,17 +18,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1T0d8AvpbmjVygJV1UBpMpeHsyA" />
+  <component name="ProjectId" id="1T0ndsIJeNXDgquAduxuh1NTvL9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,9 +43,15 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringManipulatorTest" />
-      <module name="StringManipulator" />
+    <configuration name="BasicsTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicsTest" />
+      <module name="Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BasicsTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -56,12 +62,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="685e7494-7238-4de4-a57c-bc2f3847824e" name="Default Changelist" comment="" />
-      <created>1572600784318</created>
+      <changelist id="0a14a21c-71f6-4736-8421-a43e2dbc2b6c" name="Default Changelist" comment="" />
+      <created>1572605970229</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572600784318</updated>
-      <workItem from="1572600788229" duration="1593000" />
+      <updated>1572605970229</updated>
+      <workItem from="1572605973636" duration="1138000" />
     </task>
     <servers />
   </component>
