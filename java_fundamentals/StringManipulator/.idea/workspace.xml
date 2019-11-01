@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13a6ff4a-1318-4ed2-86b6-cabbb4069dde" name="Default Changelist" comment="" />
+    <list default="true" id="685e7494-7238-4de4-a57c-bc2f3847824e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +18,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1T0Zwif3tQLoaugtaMTyBZqP2Qu" />
+  <component name="ProjectId" id="1T0d8AvpbmjVygJV1UBpMpeHsyA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,43 +36,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.fizzBuzzTest">
-    <configuration name="Unnamed" type="Applet" nameIsGenerated="true">
-      <module name="fizzBuzz" />
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringManipulatorTest" />
+      <module name="StringManipulator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="fuzzBuzzTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fizzBuzzTest" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fizzBuzzTest" />
-      <module name="fizzBuzz" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Applet.Unnamed" />
-      <item itemvalue="Application.fizzBuzzTest" />
-    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="13a6ff4a-1318-4ed2-86b6-cabbb4069dde" name="Default Changelist" comment="" />
-      <created>1572599213566</created>
+      <changelist id="685e7494-7238-4de4-a57c-bc2f3847824e" name="Default Changelist" comment="" />
+      <created>1572600784318</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572599213566</updated>
-      <workItem from="1572599217211" duration="1004000" />
-      <workItem from="1572600313554" duration="472000" />
+      <updated>1572600784318</updated>
+      <workItem from="1572600788229" duration="704000" />
     </task>
     <servers />
   </component>
