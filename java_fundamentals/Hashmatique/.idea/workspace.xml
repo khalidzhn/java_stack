@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8c89e19-7c69-4b09-b318-31b8a9da9ecd" name="Default Changelist" comment="" />
+    <list default="true" id="ded6a53a-b9fa-44a5-a4b0-6c0ad7028a93" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1T4kcT1GPN0LnORoBmbsKrF6oYZ" />
+  <component name="ProjectId" id="1T4nrfnSIpnYxfRSNZ1LmkzuQrL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -38,8 +38,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PuzzleJavaTest" />
-      <module name="PuzzleJava" />
+      <option name="MAIN_CLASS_NAME" value="Hashmatique" />
+      <module name="Hashmatique" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -50,12 +50,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a8c89e19-7c69-4b09-b318-31b8a9da9ecd" name="Default Changelist" comment="" />
-      <created>1572726834859</created>
+      <changelist id="ded6a53a-b9fa-44a5-a4b0-6c0ad7028a93" name="Default Changelist" comment="" />
+      <created>1572728435422</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572726834859</updated>
-      <workItem from="1572726837749" duration="1595000" />
+      <updated>1572728435422</updated>
+      <workItem from="1572728438420" duration="1012000" />
     </task>
     <servers />
   </component>
