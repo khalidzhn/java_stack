@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="HelloWorld:war exploded" />
+      <artifact name="HelloServlet:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc25d051-eb89-4d5b-90bd-b153c2c75eec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/example/samples/HomeServlet.class" beforeDir="false" />
+    <list default="true" id="f722961d-2686-4544-bbca-f5bbea7c0107" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/com/example/samples/HomeServlet.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +27,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Khalid\Desktop\java_satck\java_stack\java_fundamentals\HelloServlet\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -34,21 +41,12 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectId" id="1T90h5YPz7hdCGzdcFegJYSXAGv" />
+  <component name="ProjectId" id="1TARjNnXWd5sX1mSlwTtIuz0wLa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UserInfo" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -65,53 +63,20 @@
   <component name="RunManager">
     <configuration name="Tomcat 8.5.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
-        <artifact name="HelloWorld:war exploded">
+        <artifact name="HelloServlet:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/HelloWorld_war_exploded" />
+            <option name="CONTEXT_PATH" value="/HelloServlet_war_exploded" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_47_HelloWorld" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_47_HelloServlet" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="58487" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -130,7 +95,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="HelloWorld:war exploded" />
+          <artifact name="HelloServlet:war exploded" />
         </option>
       </method>
     </configuration>
@@ -140,14 +105,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc25d051-eb89-4d5b-90bd-b153c2c75eec" name="Default Changelist" comment="" />
-      <created>1572857119964</created>
+      <changelist id="f722961d-2686-4544-bbca-f5bbea7c0107" name="Default Changelist" comment="" />
+      <created>1572901047034</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572857119964</updated>
-      <workItem from="1572857124251" duration="2956000" />
-      <workItem from="1572899780873" duration="472000" />
-      <workItem from="1572900267183" duration="88000" />
+      <updated>1572901047034</updated>
+      <workItem from="1572901054183" duration="603000" />
+      <workItem from="1572902653441" duration="811000" />
     </task>
     <servers />
   </component>
