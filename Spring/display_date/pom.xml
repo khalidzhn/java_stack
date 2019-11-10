@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>codingcontroller</artifactId>
+    <artifactId>display_date</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>codingcontroller</name>
+    <name>display_date</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -36,13 +36,18 @@
             </exclusions>
         </dependency>
         <dependency>
-            <groupId>org.apache.tomcat.embed</groupId>
-            <artifactId>tomcat-embed-jasper</artifactId>
-            <version>8.5.45</version>
-        </dependency>
-        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-jasper</artifactId>
+            <version>8.5.40</version>
         </dependency>
     </dependencies>
 
