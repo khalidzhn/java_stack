@@ -22,7 +22,7 @@ public class HomeController {
     @RequestMapping("/counter")
     public String counter(HttpSession session){
         if(session.getAttribute("count")==null) {
-            Integer count = 0;
+            Integer count = -1;
             session.setAttribute("count", count);
         }
         Integer count = (Integer) session.getAttribute("count");
