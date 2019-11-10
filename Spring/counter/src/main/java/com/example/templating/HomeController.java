@@ -13,6 +13,14 @@ public class HomeController {
 
     @RequestMapping("/")
     public String index(HttpSession session){
+        if(session.getAttribute("count")!=null) {
+            session.removeAttribute("count");
+        }
+        return "index.jsp";
+
+    }
+    @RequestMapping("/counter")
+    public String counter(HttpSession session){
         if(session.getAttribute("count")==null) {
             Integer count = 0;
             session.setAttribute("count", count);
@@ -21,6 +29,6 @@ public class HomeController {
         count++;
         session.setAttribute("count",count);
 
-        return "index.jsp";
+        return "counter.jsp";
     }
 }

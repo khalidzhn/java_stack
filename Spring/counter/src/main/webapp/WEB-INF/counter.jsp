@@ -6,6 +6,9 @@
     <title>Home</title>
 </head>
 <body>
-<h1>Hello New User! </h1>
+Hello!
+<h2><c:out value="${count}"/></h2>
+<a href="/">Go Back</a>
+
 </body>
 </html>
